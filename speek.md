@@ -3,7 +3,7 @@ bg: "dsc04321_30531076972_o.jpg"
 layout: page
 title: "Steppfds"
 crawlertitle: "Yafam"
-permalink: /speek/
+permalink: /speek
 summary: "Gabboltygook"
 active: about
 ---
