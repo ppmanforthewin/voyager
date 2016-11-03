@@ -1,5 +1,5 @@
 ---
-bg: "owl.jpg"
+bg: "dsc04321_30531076972_o.jpg"
 layout: page
 title: "About"
 crawlertitle: "Why and how this blog was created"
