@@ -1,9 +1,9 @@
 ---
 bg: "dsc04321_30531076972_o.jpg"
 layout: page
-title: "Steppfds"
+title: "speek"
 crawlertitle: "Yafam"
-permalink: /speek
+permalink: /speek/
 summary: "Gabboltygook"
 active: speek
 ---
