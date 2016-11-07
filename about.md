@@ -35,7 +35,7 @@ Email marketing is an excellent way to engage customers, and [MailChimp](https:/
 
 
 ### Web analytics
-Web analytics is often over-complicated by its proponents, prompting most business owners to overlook it. However, the metrics it provides are indispensable to understanding one’s market, and can help businesses to tailor marketing materials to fit the needs of their customers. [Google Analytics](https://www.google.com/analytics/#) provides detailed insights on the demographics and interests of website visitors and is included with all websites at **no additional charge**.
+Web analytics is often over-complicated by its proponents, prompting most business owners to overlook it. However, the metrics it provides are indispensable to understanding one’s market, and can help businesses to tailor marketing materials to fit the needs of their customers. [Google Analytics](https://www.google.com/analytics/#) provides detailed insights on the demographics and interests of website visitors and is included at **no additional charge**.
 
 
 ## Repair + Consultation
@@ -43,8 +43,6 @@ Computers, like other things, have tendencies to break, malfunction, and (if it�
 
 
 I also enjoy helping my clients choose devices that meet their needs, and offer consultation services to all of my existing clients at **no additional charge** (assistance in configuring new devices is available for a small fee). I pride myself in thinking outside the box in this respect, and focus on getting my customers the most for their money.
-
-## Computer repair
 
 # My clients
 ![L & B Farms | Saddle Up 4-H | Debbie Goodling Petsitting]({{ site.images }}/rails.jpg "My Clients")
