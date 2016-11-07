@@ -11,8 +11,7 @@ active: about
 My name is Thayer Luscian, and Iâ€™m a designer, digital marketer, and all-around computer nerd who **stands on the shoulders of giants**. By combining open-source designs and technologies with my own personal touch, I create wonderful things.
 
 Get in touch at [go@thayerlabs.org](mailto:go@thayerlabs.org).
-
-
+---
 # Services
 
 
@@ -43,6 +42,6 @@ Computers, like other things, have tendencies to break, malfunction, and (if itâ
 
 
 I also enjoy helping my clients choose devices that meet their needs, and offer consultation services to all of my existing clients at **no additional charge** (assistance in configuring new devices is available for a small fee). I pride myself in thinking outside the box in this respect, and focus on getting my customers the most for their money.
-
+---
 # My clients
 ![L & B Farms | Saddle Up 4-H | Debbie Goodling Petsitting]({{ site.images }}/rails.jpg "My Clients")
