@@ -1,5 +1,5 @@
 ---
-bg: "thayer.jpg"
+bg: "owl.jpg"
 layout: page
 title: "About me"
 crawlertitle: "About | Thayer Labs"
