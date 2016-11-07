@@ -22,7 +22,7 @@ disqus_username:
 # Build settings
 markdown: kramdown
 relative_permalinks: false
-permalink: :categories/:title/
+permalink: /{{ site.basurl }}/:categories/:title/
 
 # Posts settings
 future: true
