@@ -1,10 +1,10 @@
 ---
-bg: "dsc04321_30531076972_o.jpg"
+bg: "thayer.jpg"
 layout: page
-title: "About"
-crawlertitle: "Why and how this blog was created"
+title: "About me"
+crawlertitle: "About | Thayer Labs"
 permalink: /about/
-summary: "About this blog"
+summary: "I'm a useful nerd."
 active: about
 ---
 # About me
@@ -24,16 +24,20 @@ I also design top-notch graphics to go along with my clients’ websites and soc
 
 
 ## Digital marketing
-As a late millennial, I have experienced the qualities and effects of a good **social media presence** first-hand, and have successfully worked on the Facebook pages of several small businesses and organizations, and have the resources to attract the attention of tens of thousands of people.
 
 
-**Email marketing** is an excellent way to engage customers, and my go-to platform, (MailChimp)[https://mailchimp.com/], is capable of doing just that. By designing branded email templates and assisting in content development, I can help small business reach an oft-neglected yet essential platform.
+### Social media
+As a late millennial, I have experienced the qualities and effects of a good social media presence first-hand, and have successfully worked on the Facebook pages of several small businesses and organizations, and have the resources to attract the attention of tens of thousands of people.
 
 
-**Web analytics** is often over-complicated by its proponents, prompting most business owners to overlook it. However, the metrics it provides are indispensable to understanding one’s market, and can help businesses to tailor marketing materials to fit the needs of their customers. [Google Analytics](https://www.google.com/analytics/#) provides detailed insights on the demographics and interests of any website visitors and is provided with all websites at **no additional charge**.
+### Email marketing
+Email marketing is an excellent way to engage customers, and my go-to platform, (MailChimp)[https://mailchimp.com/], is capable of doing just that. By designing branded email templates and assisting in content development, I can help small business reach an oft-neglected yet essential platform.
+
+
+## Web analytics
+Web analytics is often over-complicated by its proponents, prompting most business owners to overlook it. However, the metrics it provides are indispensable to understanding one’s market, and can help businesses to tailor marketing materials to fit the needs of their customers. [Google Analytics](https://www.google.com/analytics/#) provides detailed insights on the demographics and interests of any website visitors and is provided with all websites at **no additional charge**.
 
 
 ## Computer repair
-
 # My clients
 ![L & B Farms | Saddle Up 4-H | Debbie Goodling Petsitting]({{ site.images }}/rails.jpg "My Clients")
