@@ -7,6 +7,7 @@ permalink: /about/
 summary: "About this blog"
 active: about
 ---
+I build *secure, beautiful static websites* using the [Jekyll](http://jekyllrb.com/) platform (although I can also build pure [HTML5](https://www.w3.org/TR/html5/) websites).
 # About me
 My name is Thayer Luscian, and I’m a designer, digital marketer, and all-around computer nerd who stands on the shoulders of giants. By utilizing the technologies and designs of first-class makers made available to the community, I create wonderful things. 
 
