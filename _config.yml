@@ -22,7 +22,7 @@ disqus_username:
 # Build settings
 markdown: kramdown
 relative_permalinks: false
-permalink: /{{ site.basurl }}/:categories/:title/
+permalink: /voyager/:categories/:title/
 
 # Posts settings
 future: true
@@ -41,4 +41,4 @@ sass:
   sass_dir: assets/_sass
 
 
-images: '/assets/images'
+images: 'assets/images'
