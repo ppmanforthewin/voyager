@@ -34,7 +34,7 @@ As a late millennial, I have experienced the qualities and effects of a good soc
 Email marketing is an excellent way to engage customers, and my go-to platform, (MailChimp)[https://mailchimp.com/], is capable of doing just that. By designing branded email templates and assisting in content development, I can help small business reach an oft-neglected yet essential platform.
 
 
-## Web analytics
+### Web analytics
 Web analytics is often over-complicated by its proponents, prompting most business owners to overlook it. However, the metrics it provides are indispensable to understanding one’s market, and can help businesses to tailor marketing materials to fit the needs of their customers. [Google Analytics](https://www.google.com/analytics/#) provides detailed insights on the demographics and interests of any website visitors and is provided with all websites at **no additional charge**.
 
 
