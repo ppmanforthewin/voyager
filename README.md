@@ -1,59 +1,26 @@
-## Voyager
-
-Just another jekyll theme. Demo: <http://redvi.github.io/voyager>
-
-### Feathures:
-
-All HTML files are compressed (see `_layouts/compress.html`).
-
-**Post**
-
-All post settings can be changed. Example:
-
-```
 ---
-layout: post
-bg: '2016/background.jpg'
-title: "Post Heading"
-crawlertitle: "page title"
-summary: "post description"
-date: 2016-06-29
-tags : ['front-end']
-slug: post-url
-author: "Author"
-categories: posts
----
-```
-
-`bg` is a path to background of your article. By default backgrounds are placed in the `assets/images` directory.
-
-**Page**
-
-If page contains `active` tag, it will be show on site menu.
-
-```
----
+bg: "thayer.jpg"
 layout: page
-title: "About"
+title: "About me"
+crawlertitle: "About | Thayer Labs"
 permalink: /about/
+summary: "I'm a useful nerd."
 active: about
 ---
-```
+# About Me
 
-**Archive**
+My name is Thayer Luscian, and I’m a designer, digital marketer, and all-around computer nerd who stands on the shoulders of giants. By utilizing the technologies and designs of first-class makers made available to the community, I create wonderful things. 
 
-Archive page is sorting posts by tags. No more than one tag in one post.
+Get in touch at [go@thayerlabs.org](mailto:go@thayerlabs.org).
 
-Good:
 
-```
-tags : ['front-end']
-```
+## Services
 
-Bad:
 
-```
-tags : ['front-end', 'jekyll']
-```
+### Design
+blah blag
 
-Don't forget to change `_config.yml`.
+## My Clients
+
+
+![L & B Farms | Saddle Up 4-H | Debbie Goodling Petsitting]({{ site.images }}/clients.png "My Clients")
