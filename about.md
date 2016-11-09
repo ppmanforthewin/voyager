@@ -7,7 +7,7 @@ permalink: /about/
 summary: "I'm a useful nerd."
 active: about
 ---
-# About me
+# [go@thayerlabs.org](mailto:go@thayerlabs.org).
 My name is Thayer Luscian, and I’m a designer, digital marketer, and all-around computer nerd who **stands on the shoulders of giants**. By combining open-source designs and technologies with my own personal touch, I create wonderful things.
 
 Get in touch at [go@thayerlabs.org](mailto:go@thayerlabs.org).
