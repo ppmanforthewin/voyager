@@ -51,6 +51,4 @@ I also enjoy helping my clients choose devices that meet their needs, and offer 
 ![L & B Farms]({{ site.images }}/logo (1).png "My Clients")
 ![Saddle Up 4-H]({{ site.images }}/
 4-H Logo.png "My Clients")
-![Debbie Goodling Petsitting]({{ site.images }}/Debbie Goodling Logo Rectangle.png	
- 
- "My Clients")
+![Debbie Goodling Petsitting]({ site.images }}/Debbie Goodling Logo Rectangle.png "My Clients")
