@@ -7,8 +7,10 @@ permalink: /speek-ump/
 summary: "Gabboltygook"
 active: speek
 ---
-<meta http-equiv="refresh" content="0; url=http://example.com/" />
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<script>
+window.location = "http://new-website.com";
+</script>
+ng your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
 You can find the source code for the Jekyll new theme at:
 {{site.twitter_username}} /
