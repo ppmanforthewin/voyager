@@ -17,7 +17,7 @@ lang: "en"
 url: "https://ppmanforthewin.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
-disqus_username:
+disqus_shortname: ppmanforthewin
 
 # Build settings
 markdown: kramdown
